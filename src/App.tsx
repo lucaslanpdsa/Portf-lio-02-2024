@@ -5,7 +5,7 @@ import { GlobalStyle } from './styles/GlobalStyles';
 
 const router = createBrowserRouter([
   {
-    path: "/home",
+    path: "/",
     element: <Home />,
   },
 ]);
