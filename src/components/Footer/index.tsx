@@ -2,7 +2,7 @@ import { Container } from "./styles"
 
 const Footer = () => {
   return (
-    <Container className="container">
+    <Container>
       <ul>
         <li>lucasnascimento94@hotmail.com</li>
         <li>(37)9 9964-0369</li>

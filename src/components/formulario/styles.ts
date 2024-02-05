@@ -9,9 +9,17 @@ export const ContainerForm = styled.div`
 
   background-color: #F9F9F9;
   padding: 5em 0;
+
+  @media (min-width: 581px){
+    text-align:center;
+  }
 `
 
 export const Form = styled.div`
+  @media (min-width: 581px){
+  width: 70%;
+  }
+
   .div-input{
     display: flex;
     flex-direction: column;

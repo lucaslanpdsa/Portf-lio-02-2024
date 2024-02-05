@@ -7,7 +7,7 @@ export const Cabecalho = styled.header`
   align-items: center;
   color:#ccf381;
   font-size: 1.2rem;
-  padding: 25px 0;
+  padding: 25px 1.5em;
 
   @media screen and (max-width: 700px){
     padding-left: 1.5em;
