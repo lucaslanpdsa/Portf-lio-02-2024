@@ -17,7 +17,6 @@ export const ContainerForm = styled.div`
 
 export const Form = styled.div`
   @media (min-width: 581px){
-  width: 70%;
   text-align: start;
   }
 

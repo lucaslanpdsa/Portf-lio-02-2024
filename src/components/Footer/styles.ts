@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const Container = styled.footer`
   background-color: #3d155f;
   color: #badd76;
-  padding: 2em 5vw;
+  padding: 2em 15vw;
 
   @media (min-width: 581px){
     display: flex;
@@ -12,7 +12,7 @@ export const Container = styled.footer`
   }
 
   @media (min-width: 581px){
-    padding: 2em 1.5em;
+    padding: 2em 5rem;
   }
 
   ul{ 

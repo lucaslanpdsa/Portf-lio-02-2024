@@ -19,12 +19,6 @@ export const Card = styled.div`
     color: #3d155f;
     margin: 32px 0;
   }
-
-  @media (min-width: 581px){
-    .container{
-      width: 70%;
-    }
-  }
 `
 
 export const BTN = styled.button`
